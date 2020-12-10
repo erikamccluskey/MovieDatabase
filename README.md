@@ -3,7 +3,7 @@
 A movie database web application that allows users to view and rate movies as well as create personalized watchlists with the movies of their choice.  
 
 Why?  
-This project's purpose was to learn JavaScript (specifically form validation and DOM2 event registration), PHP, AJAX, and JSON.  
+This project's purpose was to learn PHP, MySQL, AJAX, JSON, and JavaScript (specifically form validation and DOM2 event registration).    
 It is the first PHP web application I built.  
 
 The website is hosted on http://www2.cs.uregina.ca/~emm579/movienet/homepage.php.  
